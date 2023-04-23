@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapTaker", "MapTaker\MapTaker.csproj", "{ACCF89C6-26E6-4F14-8E55-96A7BDC38BB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapefileToolsSample", "ShapefileToolsSample\ShapefileToolsSample.csproj", "{039051C1-514B-4D84-AF1E-C9306444F98E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACCF89C6-26E6-4F14-8E55-96A7BDC38BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACCF89C6-26E6-4F14-8E55-96A7BDC38BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACCF89C6-26E6-4F14-8E55-96A7BDC38BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACCF89C6-26E6-4F14-8E55-96A7BDC38BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{039051C1-514B-4D84-AF1E-C9306444F98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039051C1-514B-4D84-AF1E-C9306444F98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039051C1-514B-4D84-AF1E-C9306444F98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039051C1-514B-4D84-AF1E-C9306444F98E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F91B517C-C2A6-44CA-8E32-9718B929BF71}
+	EndGlobalSection
+EndGlobal

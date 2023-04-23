@@ -4,10 +4,6 @@ using NetTopologySuite;
 using SharpMap;
 using SharpMap.Data.Providers;
 
-//中略
-//ここから本番処理
-
-//定数
 const string sBase = @"C:\Users\k_tak\Downloads\県送付データ（水戸市）\図形";
 
 //文字コード変換用
